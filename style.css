@@ -1,0 +1,73 @@
+
+
+.delicious-logo {
+    width: 100px;
+    height: 70px;
+}
+
+#navItem1 {
+    color: #0b78de;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #117de2;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #0b73d4;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #1085f2;
+    font-family: "Roboto";
+}
+
+#navItem5 {
+    color: #0b73d4;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    height: 100vh;
+    background-image: url("https://cdn.wallpapersafari.com/76/48/gX9ChK.jpg");
+    background-size: cover;
+}
+
+.banner-heading {
+    color: rgb(246, 6, 66);
+    font-family: "roboto";
+    font-weight: 300;
+    font-size: 45px;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "roboto";
+    font-weight: 300;
+    font-size: 25px;
+
+}
+
+.custom-button {
+    color: rgb(244, 240, 240);
+    background-color: #000ed0;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    color: #fefdf8;
+    background-color: #000ed0;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #16ee0a;
+    border-radius: 8px;
+}
